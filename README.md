@@ -7,9 +7,9 @@ Clone this Repo
 <p> Update Database Details in .env file </p>
 <p> Run the Migration <b> php artisan migrate </b> </p>
 <p> Run seed <b>php artisan db:seed</b> </p>
-<p> Start Your Application <b>php artisan start </b> </p>
+<p> Start Your Application <b>php artisan serve </b> </p>
 
-<h3>Features of this Laravel Base Application </h3>
+<h3>Features of this Application </h3>
 
 <li> Register </li>
 <li> Login </li>
@@ -24,6 +24,11 @@ Clone this Repo
 <li> Update Background Cover Photo </li>
 <li> Update Profile </li>
 <li> Change Password </li>
+<li> List Plans </li>
+<li> Subscribe to Plan </li>
+<li> Current Plan </li>
+<li> Get Transactions </li>
+<li> Filter Transactions By Date </li>
 
 
 <p> Note: To enable email sending, update your mail details in the .env file </p>
